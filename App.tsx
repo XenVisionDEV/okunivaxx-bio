@@ -1,4 +1,4 @@
-import { motion } from 'motion/react'
+import { motion } from 'framer-motion'
 import { ThemeToggle } from './components/ThemeToggle'
 import { GeometricBackground } from './components/GeometricBackground'
 import { CodeMatrixEffect } from './components/CodeMatrixEffect'
